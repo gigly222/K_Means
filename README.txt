@@ -22,10 +22,3 @@ python K_Means_Main.py "3" "test_data.txt"
 *************************************************************************************************
 Where "3" is the number of clusters, "test_data.txt" is the path to the datafile. 
 Make sure you provide the complete path to the files, or put the needed files in the folder with the program. 
-
-
-Please note***
-
-I have used matplotlibs pyplot to show a visual representation of the data clustered around its centroid. There are limited colors available so it only plots only up to number of clusters k = 7. After reaching 7,
-it no longer plots, but the program will continue working as usual. The plot is for enjoyment and visualization purposes. It was not required in the assingment but it provides a good visual aid to the project. 
-When the program runs, if the plot appears, you can exit out of it by clicking the "x" in the upp
